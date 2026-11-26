@@ -1,17 +1,17 @@
-# tokokita
+# Praktikum Pemrograman Mobile Menggunakan Flutter
 
-A new Flutter project.
+### Nama       : Faqih Ardiansyah <br>
+### NIM        : H1D024047 <br>
+### Shift Awal : A <br>
+### Shift Baru : F <br>
+<br>
 
-## Getting Started
+## Pertemuan 4 dan 5 - Operasi CRUD dengan API Codeigniter 4 
+Pertemuan 1 sampai 3 di repo ini --> [Pertemuan 1-3](https://github.com/faqihardi/H1D024047-Praktikum-Mobile_Flutter)
+| Registrasi | Login | Tambah | Home List |
+| :---: | :---: | :---: | :---: | 
+| ![Screenshot 1](screenshots/pertemuan45-registrasi.jpeg) | ![Screenshot 2](screenshots/pertemuan45-login.jpeg) | ![Screenshot 3](screenshots/pertemuan45-create.jpeg) | ![Screenshot 4](screenshots/pertemuan45-homelist.jpeg) |
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+| Detail | Edit | Delete | 
+| :---: | :---: | :---: | 
+| ![Screenshot 1](screenshots/pertemuan45-detail.jpeg) | ![Screenshot 2](screenshots/pertemuan45-edit.jpeg) | ![Screenshot 3](screenshots/pertemuan45-hapus.jpeg) | 
